@@ -16,7 +16,7 @@ export default class Tour extends Component {
     return (
       <article className="tour">
         <div className="img-container">
-          <img src={img} alt="" />
+          <iframe width="420" height="315" src={img}>
           <span
             className="close-btn"
             onClick={() => {
