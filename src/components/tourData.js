@@ -1,33 +1,33 @@
 export const tourData = [
   {
     id: 1,
-    city: "new york",
-    img: "./img/newyork.jpeg",
-    name: "new york bridge tour",
+    city: "Aradhya",
+    img: "https://www.youtube.com/embed/nHE5_68NnuE",
+    name: "Ek Do teen song",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
   },
   {
     id: 2,
-    city: "paris",
-    img: "./img/paris.jpeg",
-    name: "paris lights tour",
+    city: "Aradhya",
+    img: "https://www.youtube.com/embed/Z3rGpFMGDYI",
+    name: "Ek Do teen Stage",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
   },
   {
     id: 3,
-    city: "london",
-    img: "./img/london.jpeg",
-    name: "london royal palace tour",
+    city: "Arushi",
+    img: "https://www.youtube.com/embed/Z3rGpFMGDYI",
+    name: "Ek Do teen Stage",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
   },
   {
     id: 4,
-    city: "tokyo",
-    img: "./img/tokyo.jpeg",
-    name: "tokyo sushi tour",
+    city: "Arushi",
+    img: "https://www.youtube.com/embed/Z3rGpFMGDYI",
+    name: "Ek Do teen Stage",
     info:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
   }
